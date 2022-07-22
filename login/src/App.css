@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.containerPassword{  
+  background-color: lightblue;
+  font-size: 18px;
+  color:#282c34;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+.text-email{
+  color:lightblue;
+  margin: 10px;
+}
